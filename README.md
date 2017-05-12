@@ -1,5 +1,7 @@
 # React State Validation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/react-state-validation.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/jcblw/react-state-validation.svg)](https://travis-ci.org/jcblw/react-state-validation)
 
 React State Validation uses the propTypes validation pattern to validate states.
